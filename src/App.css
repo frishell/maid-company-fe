@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+a {
+  text-decoration: none;
+}
+
+/* Or, if you have a specific container: */
+.nav-links a {
+  text-decoration: none;
+}
